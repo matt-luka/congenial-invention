@@ -191,14 +191,14 @@ class AboutPersonal extends React.Component {
                             <Col md={3}>
                                 <AnimationContainer animation="fadeIn" delay={1000}>
                                     <CounterComponent>
-                                        <Counter value={320} duration={3} delay={1000} symbol="+" text="Discord Members" animation={true} />
+                                        <Counter value={500} duration={3} delay={1000} symbol="+" text="Discord Members" animation={true} />
                                     </CounterComponent>
                                 </AnimationContainer>
                             </Col>
                             <Col md={3}>
                                 <AnimationContainer animation="fadeIn" delay={1000}>
                                     <CounterComponent>
-                                        <Counter value={2700} duration={3} delay={1000} symbol="+" text="Social Media Followers" animation={true} />
+                                        <Counter value={2900} duration={3} delay={1000} symbol="+" text="Social Media Followers" animation={true} />
                                     </CounterComponent>
                                 </AnimationContainer>
                             </Col>
