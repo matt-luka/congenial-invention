@@ -174,8 +174,8 @@ class HeroPersonal extends React.Component {
                             <Typewriter
                                 options={{
                                 strings: [
-				    'Mint Price: 0.08 ETH',
-				    'Public Sale Date: TBD',
+				                    'Mint Price: 0.08 ETH',
+				                    'Pre-Sale Date: April 2nd',
                                     'Exclusive NFT Project',
                                     'Web 3.0 Community',
                                 ],
@@ -184,7 +184,7 @@ class HeroPersonal extends React.Component {
                                 }}
                             />
                         </Type>
-                        <Resume href="https://discord.gg/F9MjuDcE4Y">
+                        <Resume href="https://discord.gg/kdUDbRdYM4">
                             Join Us
                         </Resume>
                     </HeadingBox>

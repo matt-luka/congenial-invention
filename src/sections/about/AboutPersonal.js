@@ -159,7 +159,7 @@ class AboutPersonal extends React.Component {
                                 <Heading>About Us</Heading>
                                 <Separator />
                                 <Text>
-                                    Spooky Boo Club is an upcoming NFT collection of 9,999 unique ghosts living on the Ethereum blockchain. 
+                                    Spooky Boo Club is an upcoming NFT collection of 5,999 unique ghosts living on the Ethereum blockchain. 
                                     We want to make the world a better place in our own way. With the emergence of Web 3.0, the possibilities 
                                     for accomplishing this have become increasingly endless. Each purchase of our token will result in a substantial portion of the profits being donated to
                                     charities specializing in the protection of endangered species. While we love our ghosts, don't let the species around us become ghosts too! Protecting our planet and those we share it with should be a mission that we approach as a global 
@@ -177,7 +177,7 @@ class AboutPersonal extends React.Component {
                             <Col md={3}>
                                 <AnimationContainer animation="fadeIn" delay={1000}>
                                     <CounterComponent>
-                                        <Counter value={9999} duration={3} delay={1000} text="Unique Tokens" animation={true} />
+                                        <Counter value={5999} duration={3} delay={1000} text="Unique Tokens" animation={true} />
                                     </CounterComponent>
                                 </AnimationContainer>
                             </Col>
@@ -191,14 +191,14 @@ class AboutPersonal extends React.Component {
                             <Col md={3}>
                                 <AnimationContainer animation="fadeIn" delay={1000}>
                                     <CounterComponent>
-                                        <Counter value={500} duration={3} delay={1000} symbol="+" text="Discord Members" animation={true} />
+                                        <Counter value={650} duration={3} delay={1000} symbol="+" text="Discord Members" animation={true} />
                                     </CounterComponent>
                                 </AnimationContainer>
                             </Col>
                             <Col md={3}>
                                 <AnimationContainer animation="fadeIn" delay={1000}>
                                     <CounterComponent>
-                                        <Counter value={2900} duration={3} delay={1000} symbol="+" text="Social Media Followers" animation={true} />
+                                        <Counter value={3000} duration={3} delay={1000} symbol="+" text="Social Media Followers" animation={true} />
                                     </CounterComponent>
                                 </AnimationContainer>
                             </Col>

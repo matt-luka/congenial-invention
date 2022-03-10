@@ -154,7 +154,7 @@ class ServicesOne extends React.Component {
                                                     Community funds, community control
                                                 </ServiceListElement>
                                                 <ServiceListElement>
-                                                    60% of sales profits will be deposited
+                                                    Portion of sales profits will be deposited
                                                 </ServiceListElement>
                                                 <ServiceListElement>
                                                     Publicly visible address
@@ -178,7 +178,7 @@ class ServicesOne extends React.Component {
                                                 Decentralized Autonomous Organization
                                             </ServiceListElement>
                                             <ServiceListElement>
-                                                No one's in charge, everyone's in charge
+                                                Everyone's in charge
                                             </ServiceListElement>
                                             <ServiceListElement>
                                                 Community vote for all major decision-making
@@ -205,7 +205,7 @@ class ServicesOne extends React.Component {
                                                 Will be implemented 1 month after public sale
                                             </ServiceListElement>
                                             <ServiceListElement>
-                                                Transfers between users reset the holding period
+                                                Transferring tokens between users resets the holding period
                                             </ServiceListElement>
                                         </ServiceList>
                                     </ServiceElement>
@@ -226,7 +226,7 @@ class ServicesOne extends React.Component {
                                                 Don't let species become ghosts; help save the planet
                                             </ServiceListElement>
                                             <ServiceListElement>
-						Over 20% of our sales will be donated to charities devoted to protecting endangered species
+						                        Over 20% of our sales will be donated to charities devoted to protecting endangered species
                                             </ServiceListElement>
                                             <ServiceListElement>
                                                 Each token held that contains a non-null "buddy" attribute will result in additional donations
@@ -250,7 +250,7 @@ class ServicesOne extends React.Component {
                                                 When we make money, you make money
                                             </ServiceListElement>
                                             <ServiceListElement>
-                                                TBD Percentage of post-mint sales will be distributed
+                                                Percentage of post-mint sales will be distributed
                                             </ServiceListElement>
                                             <ServiceListElement>
                                                 The more tokens you hold, the higher your cut

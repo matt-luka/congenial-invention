@@ -150,14 +150,14 @@ class TabsPart extends React.Component {
                                     institution: "100 slots",
                                     description: "A key sale will be held in order to help fund our marketing efforts for this project. For every key you hold, your wallet will receive a free token during the public sale period. Purchasing a key will also give you access to our whitelist/pre-sale. 100% of funds raised during the key sale will go directly towards marketing."
                                 },
-                                "TBD " : {
+                                "April 2 " : {
                                     title: "Pre-Sale",
-                                    institution: "1,000 slots",
+                                    institution: "600 slots",
                                     description: "The pre-sale will consist of whitelisted wallets being able to purchase tokens prior to this rest of the public. To view our whitelist requirements, please join our Discord. Whitelisted members will also receive special perks and exclusive access to certain giveaways."
                                 },
                                 "TBD  " : {
                                     title: "Public Sale",
-                                    institution: "8,899 slots",
+                                    institution: "5,299 slots",
                                     description: "The public sale will allow anyone to purchase any tokens remaining. You will be served on a first come, first served basis. Once supplies run out, minting will be closed and you will be able to purchase tokens exclusively on OpenSea."
                                 },
                                 "TBD    " : {
