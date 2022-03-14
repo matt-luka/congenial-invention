@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Spooky Boo Club',
     description:
-      'Spooky Boo Club is an upcoming NFT collection of 9,999 unique ghosts living on the Ethereum blockchain',
+      'Spooky Boo Club is an upcoming NFT collection of 5,999 unique ghosts living on the Ethereum blockchain',
   },
   pathPrefix: '/',
   plugins: [
